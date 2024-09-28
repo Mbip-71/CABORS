@@ -1,84 +1,529 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1727492949799 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1727493530999 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727492952886 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727493534065 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727492955965 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727493537134 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727492959029 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727493540196 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727492962085 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727493543256 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727492965150 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727493546326 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727492968214 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727493549398 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727492972296 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727493552464 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727492975367 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727493555527 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727492978435 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727493558593 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727492981504 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727493561661 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727492984566 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727493564729 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727492987630 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727493567801 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727492990690 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727493570877 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727492993750 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727493573939 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727492996814 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727493577003 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727492999875 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727493580073 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493583146 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493586220 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493589291 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493592362 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493595428 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493598497 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493601577 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493604646 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493607719 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493610789 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493613851 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493616947 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493620011 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493623081 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493626153 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493629222 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493632299 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493635975 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493639047 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493642112 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493645184 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493648247 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493651314 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493654384 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493657490 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493662917 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493665993 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493669063 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493672129 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493675193 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493678269 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493681332 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493684409 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493687496 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493690576 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493693648 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493696720 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493699788 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493702856 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493705930 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493708996 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493713124 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493716198 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493719267 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493723414 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493726485 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493729558 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493734638 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493737705 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493740783 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493743852 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493746931 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493749996 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493753067 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493756131 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493759196 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493762265 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493765342 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493768431 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493771497 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493774565 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493777632 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493780703 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493783773 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493786844 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493789924 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493792988 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493796047 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493799120 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493802191 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493805257 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493808327 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493811391 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493814453 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493817520 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493820581 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493823677 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493826742 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493829815 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493832881 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493835943 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493839009 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493842087 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493846339 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493849411 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493852475 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493855547 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493858609 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+included-october.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727493861668 tunnel running, 1 tunnels registered
 
 
 TUNNELS
